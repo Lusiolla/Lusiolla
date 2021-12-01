@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lusiolla
+- 👋 Hi, I’m Lucy Karpycheva
 - 👀 I’m interested in programming, board games and birdwatching.
 - 🌱 I’m currently learning Yandex.Praktikum
 - 💞️ I’m looking to collaborate on...
