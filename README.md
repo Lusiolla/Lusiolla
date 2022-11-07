@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Lucy.
 - 👀 I’m interested in programming, board games and birdwatching.
-- 🌱 I’m currently learning Yandex.Praktikum
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me lusiolla@yandex.ru
 
