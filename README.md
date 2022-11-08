@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucy.
-- 👀 I’m am interested in Java and Kotlin programming.
+- 👀 I’m am interested in Java programming.
 - 📫 How to reach me lusiolla@yandex.ru
 
 <!---
