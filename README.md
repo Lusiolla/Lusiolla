@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Lucy.
+<h1 align="center">Hi there, I'm Lucy<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 - 👀 I’m am interested in Java programming.
 - 📫 How to reach me lusiolla@yandex.ru
 
