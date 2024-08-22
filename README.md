@@ -2,7 +2,7 @@
 
 - 👀 I'm interested in Java development
 - :telescope: In my free time I work on my projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📫 How to reach me lusiolla@yandex.ru
+- 📫 How to reach me lucy@karpychev.name
 
 <!---
 Lusiolla/Lusiolla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
